@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Copy of DailyDevotional.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>DailyDevotional.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>76C12B2B1B4509A40051C277</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9D374901AFA43B30095C31F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9D374AC1AFA43B40095C31F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9E385EB1B1F06190026AFD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9E387111B1F06DB0026AFD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9E388371B1F07450026AFD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

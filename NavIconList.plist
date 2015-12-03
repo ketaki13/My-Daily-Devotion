@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>lbl</key>
+		<string>New App</string>
+		<key>icon</key>
+		<string>New App.png</string>
+		<key>link</key>
+		<string>http://click.clicktrkr.net/4f66437e-5ec1-414d-964f-10dded3e4638</string>
+	</dict>
+	<dict>
+		<key>lbl</key>
+		<string>Free games</string>
+		<key>icon</key>
+		<string>joystick.png</string>
+		<key>link</key>
+		<string>http://click.clicktrkr.net/9d170af4-f371-4d0c-9baa-2b9d3f583888</string>
+	</dict>
+	<dict>
+		<key>lbl</key>
+		<string>Prayer Guide</string>
+		<key>icon</key>
+		<string>Prayer Guide.png</string>
+		<key>link</key>
+		<string>http://click.clicktrkr.net/19dfc5e4-5e1c-4f66-9de1-433786d4caa9http://click.clicktrkr.net/19dfc5e4-5e1c-4f66-9de1-433786d4caa9</string>
+	</dict>
+	<dict>
+		<key>lbl</key>
+		<string>Free eBook</string>
+		<key>icon</key>
+		<string>FreeEBook.png</string>
+		<key>link</key>
+		<string>http://click.clicktrkr.net/8a3fbc0b-5f03-48de-a7d7-5280df291660</string>
+	</dict>
+	<dict>
+		<key>lbl</key>
+		<string>Sweepstakes</string>
+		<key>icon</key>
+		<string>Sweepstakes.png</string>
+		<key>link</key>
+		<string>http://click.clicktrkr.net/e498b8b1-51db-48d1-b7b3-8f73158a7705</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>DailyDevotional Military.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>DailyDevotional Nurses.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>DailyDevotional Police.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>DailyDevotional Teacher.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E94DB1B51B1DF7B00035E468</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E94DB2DB1B1DF8220035E468</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E94DB4011B1DF8330035E468</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E94DB5271B1DF83B0035E468</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9D374901AFA43B30095C31F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9D374AC1AFA43B40095C31F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9E3802D1B1F03660026AFD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9E381531B1F04B60026AFD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9E382791B1F04CC0026AFD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9E3839F1B1F04D40026AFD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9E384C51B1F05250026AFD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9E385EB1B1F06190026AFD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9E387111B1F06DB0026AFD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9E388371B1F07450026AFD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
